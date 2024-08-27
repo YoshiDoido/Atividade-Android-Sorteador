@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtTitulo">Sorteador Premiado</string>
+    <string name="txtValor1">"?"</string>
+    <string name="txtValor2">"?"</string>
+    <string name="txtValor3">"?"</string>
+    <string name="txtValor4">"?"</string>
+    <string name="txtValor5">"?"</string>
+    <string name="txtValor6">"?"</string>
+    <string name="btnSortear">Sortear</string>
+    <string name="btnLimpar">Limpar</string>
+</resources>
